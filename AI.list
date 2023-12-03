@@ -24,6 +24,6 @@ DOMAIN-SUFFIX,m.stripe.network
 DOMAIN-KEYWORD,forefront
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,chat-production-5759.up.railway.app
-DOMAIN-SUFFIX,streaming-worker.forefront.workers.dev
+DOMAIN-SUFFIX,forefront.workers.dev
 
 
