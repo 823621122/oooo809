@@ -13,3 +13,11 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+# 内容：perplexity
+# 数量：
+DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,stripe
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,m.stripe.network
+
+
