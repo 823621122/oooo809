@@ -44,3 +44,11 @@ epicgames.dev
 helpshift.com
 paragon.com
 unrealengine.com
+
+# 内容：Sony
+# 数量：5条
+playstation.com
+playstation.net
+playstationnetwork.com
+sony.com
+sonyentertainmentnetwork.com
