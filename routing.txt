@@ -4,7 +4,6 @@
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 acl4.ssr
 
-
 # Router managed 路由器管理域名
 instant.arubanetworks.com
 setmeup.arubanetworks.com
@@ -28,3 +27,12 @@ ip6-loopback
 lan
 local
 localhost
+
+# 内容：NetEaseMusic 网易云音乐
+# 数量：37条
+163yun.com
+api.iplay.163.com
+hz.netease.com
+mam.netease.com
+music.163.com
+music.163.com.163jiasu.com
