@@ -36,3 +36,11 @@ hz.netease.com
 mam.netease.com
 music.163.com
 music.163.com.163jiasu.com
+
+# 内容：Epic
+# 数量：5条
+epicgames.com
+epicgames.dev
+helpshift.com
+paragon.com
+unrealengine.com
