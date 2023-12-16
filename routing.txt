@@ -23,3 +23,8 @@ tendawifi.com
 zte.home
 tplogin.cn
 wifi.cmcc
+ip6-localhost
+ip6-loopback
+lan
+local
+localhost
