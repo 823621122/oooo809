@@ -1,0 +1,43 @@
+# Unbreak 白名单 不应该被广告链接的网站
+
+# Epicgames
+ol.epicgames.com
+
+# Getui
+dizhensubao.getui.com
+
+# Google
+dl.google.com
+googletraveladservices.com
+
+# Mozilla
+tracking-protection.cdn.mozilla.net
+
+# Origin
+origin-a.akamaihd.net
+
+# Tencent
+fairplay.l.qq.com
+livew.l.qq.com
+vd.l.qq.com
+
+# Strava
+
+# Umeng
+errlog.umeng.com
+msg.umeng.com
+msg.umengcloud.com
+
+# Miui 小米
+tracking.miui.com
+
+# General
+app.adjust.com
+bdtj.tagtic.cn
+
+# Hypixel Network
+rewards.hypixel.net
+
+# Koodo Mobile
+koodomobile.com
+koodomobile.ca
