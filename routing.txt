@@ -87,3 +87,35 @@ bilivideo.com
 hdslb.com
 im9.com
 smtcdns.net
+
+# 内容：中国媒体列表
+# 更新：2023-12-14 21:59:07
+# 数量：45条
+
+
+
+# Iqiyi 爱奇艺
+QYPlayer*
+iQIYI*
+intel-cache.m.iqiyi.com
+intel-cache.video.iqiyi.com
+intl-rcd.iqiyi.com
+intl-subscription.iqiyi.com
+inter.iqiyi.com
+inter.ptqy.gitv.tv
+intl.iqiyi.com
+iq.com
+
+# Letv 乐视
+api.mob.app.letv.com
+
+# MOO
+MOO*
+TencentMidasConnect*
+
+# TencentVideo 腾讯视频
+v.smtcdns.com
+vv.video.qq.com
+
+# Youku 优酷
+youku.com
