@@ -52,3 +52,14 @@ playstation.net
 playstationnetwork.com
 sony.com
 sonyentertainmentnetwork.com
+
+# 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
+# 数量：21条
+p-bstarstatic.akamaized.net
+p.bstarstatic.com
+upos-bstar-mirrorakam.akamaized.net
+upos-bstar1-mirrorakam.akamaized.net
+upos-hz-mirrorakam.akamaized.net
+acgvideo.com
+bilibili.com
+bilibili.tv
